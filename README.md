@@ -1,1 +1,1 @@
-MAGA is now [https://github.com/LeenaSalmela/SAMA/](SAMA)
+MAGA is now SAMA: https://github.com/LeenaSalmela/SAMA/
